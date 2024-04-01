@@ -1,0 +1,24 @@
+---
+title: Self-assessment #3
+author: Abby Komiske 
+format: pdf 
+---
+
+## What did you learn?
+
+I have learned a lot in the last few months. I am still working with my research idea and moving things around, but I am definitely a lot closer. Further, the trajectory of the labs have helped a lot, especially the new change to watch the coding happening. Lab 7 helped a lot with normalization and tokenization for text analysis. I understand data transformation a lot more now. 
+
+## What was most/ least challenging?
+
+I think that the in class labs were challenging for a while. Lab 6 was tough for everyone, but going through lab 7 and now working towards lab 8, I feel much better, especially with the format of class now. Like you said, it's more important to understand the concepts and general goal of what I can work towards.  
+
+## What resources did you consult?
+
+I have mostly been consulting the textbook and instructor still. 
+
+## What more would you like to know about?
+
+I would like to know more about how the unit of observation can be adjusted to align with the research question more. I know that this is a broad statement to make under data curation and transformation, but I think this will be answered as we get into the finer details as we have the last few weeks ahead of us. Lab 7 was really beneficial for getting into how to use the data for research statements about exploring, but I think mine will probably be about predicting. Hopefully soon I will have my "final" research question and statement! 
+
+I think it would be really cool to have a way to do this research by the end of the semester and then continue working on it into my senior year and make a finished product. It's taking a while to conceptualize everything, but I am very interested in this. 
+
